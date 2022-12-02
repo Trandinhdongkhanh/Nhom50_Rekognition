@@ -35,3 +35,7 @@ B6: Copy ID người nổi tiếng và Paste vào mục face_id (khóa chính) c
 ![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/7.png?raw=true)
 
 ![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/8.png?raw=true)
+
+B7: Uncomment đoạn code khởi tạo giao diện và hoàn thành
+
+![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/9.png?raw=true)
