@@ -7,6 +7,8 @@ Trần Trung Phát - 20110536
 
 B0: Tải và cài đặt các thư viện cần thiết
 
+### `$ python -m pip install boto3`
+
 B1: Đăng nhập vào giao diện AWS Console trên Learner Lab và chọn dịch vụ S3
 
 ![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/1.png?raw=true)
