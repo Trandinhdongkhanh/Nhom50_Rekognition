@@ -11,7 +11,7 @@ B1: Đăng nhập vào giao diện AWS Console trên Learner Lab và chọn dị
 ![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/1.png?raw=true)
 
 B2: Tạo Bucket và upload các Object (file ảnh) lên Bucket đó
-### Lưu ý: Nên đặt tên file theo tên người nổi tiếng để dễ dàng quản lý
+### Lưu ý: Đặt tên file theo tên người nổi tiếng để dễ dàng quản lý, AWS chỉ hỗ trợ các dạng file ảnh sau: .png, .jpg, .jpeg
 
 
 B3: Lấy key từ AWS Details và copy chúng vào file credentials.py
