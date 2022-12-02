@@ -1,7 +1,7 @@
 # Nhom50_Rekognition
 Trần Đình Đông Khánh - 20110503 (Nhóm trưởng)\
 Đào Ngọc Thạch - 20110564\
-Trần Trung Phát - 20110536\
+Trần Trung Phát - 20110536
 
 ## Hướng dẫn cài đặt và chạy Project
 
@@ -13,3 +13,5 @@ B2: Tạo Bucket và upload các Object (file ảnh) lên Bucket đó
 ### Lưu ý: Nên đặt tên file theo tên người nổi tiếng để dễ dàng quản lý
 
 B3: Lấy key từ AWS Details và copy chúng vào file credentials.py
+
+B4: 
