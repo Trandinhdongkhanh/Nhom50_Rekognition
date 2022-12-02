@@ -22,4 +22,10 @@ B3: Lấy key từ AWS Details và copy chúng vào file credentials.py
 
 ![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/4.png?raw=true)
 
-B4: 
+B4: Chạy đoạn code này 1 lần, sau đó comment nó lại
+
+![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/5.png?raw=true)
+
+B5: Chọn dịch vụ DynamoDB trên AWS Console và tạo Table
+
+![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/6.png?raw=true)
