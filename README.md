@@ -12,6 +12,7 @@ B1: Đăng nhập vào giao diện AWS Console trên Learner Lab và chọn dị
 B2: Tạo Bucket và upload các Object (file ảnh) lên Bucket đó
 ### Lưu ý: Nên đặt tên file theo tên người nổi tiếng để dễ dàng quản lý
 
+
 B3: Lấy key từ AWS Details và copy chúng vào file credentials.py
 
 B4: 
