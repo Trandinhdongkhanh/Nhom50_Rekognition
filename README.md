@@ -11,7 +11,7 @@ B0: Tải và cài đặt các thư viện cần thiết
 
 ### `pip install tkinterx`
 
-### Một số IDE đã hỗ trợ cài đặt sẵn một số thư viện khác do đó nếu Project bị lỗi thiếu thư viện thì ta phải tự thêm các thư viện còn thiếu, IDE nhóm dùng là PyCharm của Jetbrains, bạn có thể sử dụng Email của trường và đăng ký gói Student sẽ được miến phí sử dụng IDE này
+### IDE đã hỗ trợ cài đặt sẵn một số thư viện khác do đó nếu Project bị lỗi thiếu thư viện thì ta phải tự thêm các thư viện còn thiếu, IDE nhóm dùng là PyCharm của Jetbrains, ta có thể sử dụng Email trường và đăng ký gói Student sẽ được miễn phí sử dụng IDE này
 
 B1: Đăng nhập vào giao diện AWS Console trên Learner Lab và chọn dịch vụ S3
 
