@@ -29,3 +29,9 @@ B4: Chạy đoạn code này 1 lần, sau đó comment nó lại
 B5: Chọn dịch vụ DynamoDB trên AWS Console và tạo Table
 
 ![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/6.png?raw=true)
+
+B6: Copy ID người nổi tiếng và Paste vào mục face_id (khóa chính) của Table
+
+![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/7.png?raw=true)
+
+![alt text](https://github.com/Trandinhdongkhanh/Nhom50_Rekognition/blob/main/Tutorial_Images/8.png?raw=true)
