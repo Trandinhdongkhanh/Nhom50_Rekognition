@@ -7,7 +7,11 @@ Trần Trung Phát - 20110536
 
 B0: Tải và cài đặt các thư viện cần thiết
 
-### `$ python -m pip install boto3`
+### `python -m pip install boto3`
+
+### `pip install tkinterx`
+
+### Một số IDE đã hỗ trợ cài đặt sẵn một số thư viện khác do đó nếu Project bị lỗi thiếu thư viện thì ta phải tự thêm các thư viện còn thiếu
 
 B1: Đăng nhập vào giao diện AWS Console trên Learner Lab và chọn dịch vụ S3
 
