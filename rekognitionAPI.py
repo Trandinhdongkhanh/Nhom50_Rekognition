@@ -115,9 +115,9 @@ class Rekognition():
         response = self.client.list_collections(
             MaxResults=5
         )
-        print(response['CollectionIds'])
-        print('Done !')
+        print(json.dumps(response, indent=3))
         print()
+        return len(response['CollectionIds'])
 
     def delete_collection(self, collection_id):
         print("Deleting collection '"  + collection_id +"'")

@@ -11,7 +11,9 @@ def set_up(collection_id, bucket_name):
     client = Client('rekognition', access_key_id, secret_access_key, session_token, region)
     s3 = S3('s3', access_key_id, secret_access_key, session_token, region)
     rekApi = Rekognition(client.init_client())
-    rekApi.delete_collection(collection_id)
+    count = rekApi.list_collection()
+    if count >= 1:          #Check if collection exist
+        rekApi.delete_collection(collection_id)
     rekApi.create_collection(collection_id)
     rekApi.list_collection()
     bucket = s3.resource().Bucket(bucket_name)
@@ -32,6 +34,8 @@ def main():
 
     # set_up(collection_id, bucket_name)      #run this once, then comment it
 
+    #Uncomment this if you have run the code above
+
     application.CLIENT = client.init_client()
     application.BUCKET = bucket_name
     application.S3_RESOURCE = s3.resource()
@@ -43,12 +47,5 @@ def main():
     app = App()
     app.win.mainloop()
 
-
-
 if __name__ == "__main__":
     main()
-
-
-
-
-    
