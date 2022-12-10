@@ -1,7 +1,7 @@
 # Nhom50_Rekognition
-Trần Đình Đông Khánh - 20110503 (Nhóm trưởng)\
-Đào Ngọc Thạch - 20110564\
-Trần Trung Phát - 20110536
+- Trần Đình Đông Khánh - 20110503 (Nhóm trưởng)\
+- Đào Ngọc Thạch - 20110564\
+- Trần Trung Phát - 20110536
 
 ## Các dịch vụ sử dụng
 
