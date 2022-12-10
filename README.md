@@ -3,6 +3,12 @@ Trần Đình Đông Khánh - 20110503 (Nhóm trưởng)\
 Đào Ngọc Thạch - 20110564\
 Trần Trung Phát - 20110536
 
+## Các dịch vụ sử dụng
+
+- AWS Rekognition
+- AWS S3
+- AWS DynamoDB
+
 ## Hướng dẫn cài đặt và chạy Project
 
 B0: Tải và cài đặt các thư viện cần thiết
